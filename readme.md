@@ -1,5 +1,7 @@
 # README
 
+
+
 ## Why?
 
 I just need a set of CRUD Endpoint to let me to play with  my frontend code.
@@ -48,7 +50,7 @@ Return code
 
 ### Update User
 
-[ PUT ] http://localhost:3000/user/:\_id
+[ PUT ] http://localhost:3000/user/:_id
 
 body in json
 
@@ -70,7 +72,7 @@ Return code
 
 ### Delete User
 
-[ DEL ] http://localhost:3000/user/:\_id
+[ DEL ] http://localhost:3000/user/:_id
 
 Return code
 
@@ -82,9 +84,9 @@ Return code
 
 ### Get User by ID
 
-[ DEL ] http://localhost:3000/user/:\_id
+[ GET ] http://localhost:3000/user/:_id
 
-Note: :id is 65c86e22-b0a5-4556-83cb-6bda5df847d6
+Note: :_id is 65c86e22-b0a5-4556-83cb-6bda5df847d6 as below
 
 Return code
 
