@@ -2,7 +2,7 @@
 
 ## Why?
 
-A CRUD Endpoint linking to more rate limit firebase realtimeDB to allow me to have a backend ready!
+I just need a set of CRUD Endpoint to let me to play with  my frontend code.
 
 ### Create User
 
